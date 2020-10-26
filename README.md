@@ -23,7 +23,7 @@ npm install -g @nrwl/cli
 clone the github repository (`wget` need to be installed first) :
 
 ```bash
-git clone https://github.com/ethereum/remix-project.git
+git clone https://github.com/WorldChainS/WSC-remix-ide
 
 cd remix-project
 npm install
