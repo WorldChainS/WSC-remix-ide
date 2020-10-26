@@ -1,18 +1,9 @@
-[![Join the chat at https://gitter.im/ethereum/remix](https://badges.gitter.im/ethereum/remix.svg)](https://gitter.im/ethereum/remix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![CircleCI](https://circleci.com/gh/ethereum/remix-project.svg?style=svg)](https://circleci.com/gh/ethereum/remix-project)
-[![Documentation Status](https://readthedocs.org/projects/docs/badge/?version=latest)](https://remix-ide.readthedocs.io/en/latest/index.html)
 
 # Remix
 
-Remix is a browser-based compiler and IDE that enables users to build **Ethereum contracts with Solidity language** and to debug transactions.
+Remix is a browser-based compiler and IDE that enables users to build **contracts with Solidity language** and to debug transactions.
 
-To try it out, visit [https://remix.ethereum.org](https://remix.ethereum.org).
 
-https://github.com/ethereum/remix-project/releases also gives others ways to use Remix locally. Please check it out.
-
-Remix consists of many modules and in this repository you will find Remix related apps, libs and plugins. (remix-ide, remix-analyzer, etc.).
-
-![Remix screenshot](https://github.com/ethereum/remix-project/raw/master/apps/remix-ide/remix_screenshot.png)
 
 ## Offline Usage
 
